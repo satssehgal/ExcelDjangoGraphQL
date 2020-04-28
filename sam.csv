@@ -1,0 +1,701 @@
+Segment,Country,Product,Units,Sales,Datesold
+Government,Canada,Carretera,1619,32370,1/1/14
+Government,Germany,Carretera,1321,26420,1/1/14
+Midmarket,France,Carretera,2178,32670,6/1/14
+Midmarket,Germany,Carretera,888,13320,6/1/14
+Midmarket,Mexico,Carretera,2470,37050,6/1/14
+Government,Germany,Carretera,1513,529550,12/1/14
+Midmarket,Germany,Montana,921,13815,3/1/14
+Channel Partners,Canada,Montana,2518,30216,6/1/14
+Government,France,Montana,1899,37980,6/1/14
+Channel Partners,Germany,Montana,1545,18540,6/1/14
+Midmarket,Mexico,Montana,2470,37050,6/1/14
+Enterprise,Canada,Montana,2666,333187.5,7/1/14
+Small Business,Mexico,Montana,958,287400,8/1/14
+Government,Germany,Montana,2146,15022,9/1/14
+Enterprise,Canada,Montana,345,43125,10/1/13
+Midmarket,United States of America,Montana,615,9225,12/1/14
+Government,Canada,Paseo,292,5840,2/1/14
+Midmarket,Mexico,Paseo,974,14610,2/1/14
+Channel Partners,Canada,Paseo,2518,30216,6/1/14
+Government,Germany,Paseo,1006,352100,6/1/14
+Channel Partners,Germany,Paseo,367,4404,7/1/14
+Government,Mexico,Paseo,883,6181,8/1/14
+Midmarket,France,Paseo,549,8235,9/1/13
+Small Business,Mexico,Paseo,788,236400,9/1/13
+Midmarket,Mexico,Paseo,2472,37080,9/1/14
+Government,United States of America,Paseo,1143,8001,10/1/14
+Government,Canada,Paseo,1725,603750,11/1/13
+Channel Partners,United States of America,Paseo,912,10944,11/1/13
+Midmarket,Canada,Paseo,2152,32280,12/1/13
+Government,Canada,Paseo,1817,36340,12/1/14
+Government,Germany,Paseo,1513,529550,12/1/14
+Government,Mexico,Velo,1493,10451,1/1/14
+Enterprise,France,Velo,1804,225500,2/1/14
+Channel Partners,Germany,Velo,2161,25932,3/1/14
+Government,Germany,Velo,1006,352100,6/1/14
+Channel Partners,Germany,Velo,1545,18540,6/1/14
+Enterprise,United States of America,Velo,2821,352625,8/1/14
+Enterprise,Canada,Velo,345,43125,10/1/13
+Small Business,Canada,VTT,2001,600300,2/1/14
+Channel Partners,Germany,VTT,2838,34056,4/1/14
+Midmarket,France,VTT,2178,32670,6/1/14
+Midmarket,Germany,VTT,888,13320,6/1/14
+Government,France,VTT,1527,534450,9/1/13
+Small Business,France,VTT,2151,645300,9/1/14
+Government,Canada,VTT,1817,36340,12/1/14
+Government,France,Amarilla,2750,962500,2/1/14
+Channel Partners,United States of America,Amarilla,1953,23436,4/1/14
+Enterprise,Germany,Amarilla,4220,527437.5,4/1/14
+Government,France,Amarilla,1899,37980,6/1/14
+Government,Germany,Amarilla,1686,11802,7/1/14
+Channel Partners,United States of America,Amarilla,2141,25692,8/1/14
+Government,United States of America,Amarilla,1143,8001,10/1/14
+Midmarket,United States of America,Amarilla,615,9225,12/1/14
+Government,France,Paseo,3945,27615,1/1/14
+Midmarket,France,Paseo,2296,34440,2/1/14
+Government,France,Paseo,1030,7210,5/1/14
+Government,France,Velo,639,4473,11/1/14
+Government,Canada,VTT,1326,9282,3/1/14
+Channel Partners,United States of America,Carretera,1858,22296,2/1/14
+Government,Mexico,Carretera,1210,423500,3/1/14
+Government,United States of America,Carretera,2529,17703,7/1/14
+Channel Partners,Canada,Carretera,1445,17340,9/1/14
+Enterprise,United States of America,Carretera,330,41250,9/1/13
+Channel Partners,France,Carretera,2671,32052,9/1/14
+Channel Partners,Germany,Carretera,766,9192,10/1/13
+Small Business,Mexico,Carretera,494,148200,10/1/13
+Government,Mexico,Carretera,1397,488950,10/1/14
+Government,France,Carretera,2155,754250,12/1/14
+Midmarket,Mexico,Montana,2214,33210,3/1/14
+Small Business,United States of America,Montana,2301,690300,4/1/14
+Government,France,Montana,1376,27510,7/1/14
+Government,Canada,Montana,1830,12810,8/1/14
+Small Business,United States of America,Montana,2498,749400,9/1/13
+Enterprise,United States of America,Montana,663,82875,10/1/13
+Midmarket,United States of America,Paseo,1514,22710,2/1/14
+Government,United States of America,Paseo,4493,31447.5,4/1/14
+Enterprise,United States of America,Paseo,727,90875,6/1/14
+Enterprise,France,Paseo,787,98375,6/1/14
+Enterprise,Mexico,Paseo,1823,227875,7/1/14
+Midmarket,Germany,Paseo,747,11205,9/1/14
+Channel Partners,Germany,Paseo,766,9192,10/1/13
+Small Business,United States of America,Paseo,2905,871500,11/1/14
+Government,France,Paseo,2155,754250,12/1/14
+Government,France,Velo,3864,77280,4/1/14
+Government,Mexico,Velo,362,2534,5/1/14
+Enterprise,Canada,Velo,923,115375,8/1/14
+Enterprise,United States of America,Velo,663,82875,10/1/13
+Government,Canada,Velo,2092,14644,11/1/13
+Government,Germany,VTT,263,1841,3/1/14
+Government,Canada,VTT,944,330225,4/1/14
+Enterprise,United States of America,VTT,727,90875,6/1/14
+Enterprise,France,VTT,787,98375,6/1/14
+Small Business,Germany,VTT,986,295800,9/1/14
+Small Business,Mexico,VTT,494,148200,10/1/13
+Government,Mexico,VTT,1397,488950,10/1/14
+Enterprise,France,VTT,1744,218000,11/1/14
+Channel Partners,United States of America,Amarilla,1989,23868,9/1/13
+Midmarket,France,Amarilla,321,4815,11/1/13
+Enterprise,Canada,Carretera,743,92812.5,4/1/14
+Channel Partners,Canada,Carretera,1295,15540,10/1/14
+Small Business,Germany,Carretera,214,64200,10/1/13
+Government,France,Carretera,2145,15015,11/1/13
+Government,Canada,Carretera,2852,998200,12/1/14
+Channel Partners,United States of America,Montana,1142,13704,6/1/14
+Government,United States of America,Montana,1566,31320,10/1/14
+Channel Partners,Mexico,Montana,690,8280,11/1/14
+Enterprise,Mexico,Montana,1660,207500,11/1/13
+Midmarket,Canada,Paseo,2363,35445,2/1/14
+Small Business,France,Paseo,918,275400,5/1/14
+Small Business,Germany,Paseo,1728,518400,5/1/14
+Channel Partners,United States of America,Paseo,1142,13704,6/1/14
+Enterprise,Mexico,Paseo,662,82750,6/1/14
+Channel Partners,Canada,Paseo,1295,15540,10/1/14
+Enterprise,Germany,Paseo,809,101125,10/1/13
+Enterprise,Mexico,Paseo,2145,268125,10/1/13
+Channel Partners,France,Paseo,1785,21420,11/1/13
+Small Business,Canada,Paseo,1916,574800,12/1/14
+Government,Canada,Paseo,2852,998200,12/1/14
+Enterprise,Canada,Paseo,2729,341125,12/1/14
+Midmarket,United States of America,Paseo,1925,28875,12/1/13
+Government,United States of America,Paseo,2013,14091,12/1/13
+Channel Partners,France,Paseo,1055,12660,12/1/14
+Channel Partners,Mexico,Paseo,1084,13008,12/1/14
+Government,United States of America,Velo,1566,31320,10/1/14
+Government,Germany,Velo,2966,1038100,10/1/13
+Government,Germany,Velo,2877,1006950,10/1/14
+Enterprise,Germany,Velo,809,101125,10/1/13
+Enterprise,Mexico,Velo,2145,268125,10/1/13
+Channel Partners,France,Velo,1055,12660,12/1/14
+Government,Mexico,Velo,544,10880,12/1/13
+Channel Partners,Mexico,Velo,1084,13008,12/1/14
+Enterprise,Mexico,VTT,662,82750,6/1/14
+Small Business,Germany,VTT,214,64200,10/1/13
+Government,Germany,VTT,2877,1006950,10/1/14
+Enterprise,Canada,VTT,2729,341125,12/1/14
+Government,United States of America,VTT,266,93100,12/1/13
+Government,Mexico,VTT,1940,679000,12/1/13
+Small Business,Germany,Amarilla,259,77700,3/1/14
+Small Business,Mexico,Amarilla,1101,330300,3/1/14
+Enterprise,Germany,Amarilla,2276,284500,5/1/14
+Government,Germany,Amarilla,2966,1038100,10/1/13
+Government,United States of America,Amarilla,1236,24720,11/1/14
+Government,France,Amarilla,941,18820,11/1/14
+Small Business,Canada,Amarilla,1916,574800,12/1/14
+Enterprise,France,Carretera,4244,530437.5,4/1/14
+Government,Germany,Carretera,2580,51600,4/1/14
+Small Business,Germany,Carretera,689,206700,6/1/14
+Channel Partners,United States of America,Carretera,1947,23364,9/1/14
+Channel Partners,Canada,Carretera,908,10896,12/1/13
+Government,Germany,Montana,1958,13706,2/1/14
+Channel Partners,France,Montana,1901,22812,6/1/14
+Government,France,Montana,544,3808,9/1/14
+Government,Germany,Montana,1797,628950,9/1/13
+Enterprise,France,Montana,1287,160875,12/1/14
+Enterprise,Germany,Montana,1706,213250,12/1/14
+Small Business,France,Paseo,2435,730350,1/1/14
+Enterprise,Canada,Paseo,1774,221750,3/1/14
+Channel Partners,France,Paseo,1901,22812,6/1/14
+Small Business,Germany,Paseo,689,206700,6/1/14
+Enterprise,Germany,Paseo,1570,196250,6/1/14
+Channel Partners,United States of America,Paseo,1370,16434,7/1/14
+Enterprise,Canada,Paseo,2009,251125,10/1/14
+Midmarket,Germany,Paseo,1945,29175,10/1/13
+Enterprise,France,Paseo,1287,160875,12/1/14
+Enterprise,Germany,Paseo,1706,213250,12/1/14
+Enterprise,Canada,Velo,2009,251125,10/1/14
+Small Business,United States of America,VTT,2844,853200,2/1/14
+Channel Partners,Mexico,VTT,1916,22992,4/1/14
+Enterprise,Germany,VTT,1570,196250,6/1/14
+Small Business,Canada,VTT,1874,562200,8/1/14
+Government,Mexico,VTT,1642,574700,8/1/14
+Midmarket,Germany,VTT,1945,29175,10/1/13
+Government,Canada,Carretera,831,16620,5/1/14
+Government,Mexico,Paseo,1760,12320,9/1/13
+Government,Canada,Velo,3851,77010,4/1/14
+Channel Partners,Germany,VTT,2479,29748,1/1/14
+Midmarket,Mexico,Montana,2031,30465,10/1/14
+Midmarket,Mexico,Paseo,2031,30465,10/1/14
+Midmarket,France,Paseo,2261,33915,12/1/13
+Government,United States of America,Velo,736,14720,9/1/13
+Government,Canada,Carretera,2851,19957,10/1/13
+Small Business,Germany,Carretera,2021,606300,10/1/14
+Government,United States of America,Carretera,274,95900,12/1/14
+Midmarket,Canada,Montana,1967,29505,3/1/14
+Small Business,Germany,Montana,1859,557700,8/1/14
+Government,Canada,Montana,2851,19957,10/1/13
+Small Business,Germany,Montana,2021,606300,10/1/14
+Enterprise,Mexico,Montana,1138,142250,12/1/14
+Government,Canada,Paseo,4251,29757,1/1/14
+Enterprise,Germany,Paseo,795,99375,3/1/14
+Small Business,Germany,Paseo,1415,424350,4/1/14
+Small Business,United States of America,Paseo,2918,875400,5/1/14
+Government,United States of America,Paseo,3450,1207500,7/1/14
+Enterprise,France,Paseo,2988,373500,7/1/14
+Midmarket,Canada,Paseo,218,3270,9/1/14
+Government,Canada,Paseo,2074,41480,9/1/14
+Government,United States of America,Paseo,1056,21120,9/1/14
+Midmarket,United States of America,Paseo,671,10065,10/1/13
+Midmarket,Mexico,Paseo,1514,22710,10/1/13
+Government,United States of America,Paseo,274,95900,12/1/14
+Enterprise,Mexico,Paseo,1138,142250,12/1/14
+Channel Partners,United States of America,Velo,1465,17580,3/1/14
+Government,Canada,Velo,2646,52920,9/1/13
+Government,France,Velo,2177,761950,10/1/14
+Channel Partners,France,VTT,866,10392,5/1/14
+Government,United States of America,VTT,349,122150,9/1/13
+Government,France,VTT,2177,761950,10/1/14
+Midmarket,Mexico,VTT,1514,22710,10/1/13
+Government,Mexico,Amarilla,1865,652750,2/1/14
+Enterprise,Mexico,Amarilla,1074,134250,4/1/14
+Government,Germany,Amarilla,1907,667450,9/1/14
+Midmarket,United States of America,Amarilla,671,10065,10/1/13
+Government,Canada,Amarilla,1778,622300,12/1/13
+Government,Germany,Montana,1159,8113,10/1/13
+Government,Germany,Paseo,1372,9604,1/1/14
+Government,Canada,Paseo,2349,16443,9/1/13
+Government,Mexico,Paseo,2689,18823,10/1/14
+Channel Partners,Canada,Paseo,2431,29172,12/1/14
+Channel Partners,Canada,Velo,2431,29172,12/1/14
+Government,Mexico,VTT,2689,18823,10/1/14
+Government,Mexico,Amarilla,1683,11781,7/1/14
+Channel Partners,Mexico,Amarilla,1123,13476,8/1/14
+Government,Germany,Amarilla,1159,8113,10/1/13
+Channel Partners,France,Carretera,1865,22380,2/1/14
+Channel Partners,Germany,Carretera,1116,13392,2/1/14
+Government,France,Carretera,1563,31260,5/1/14
+Small Business,United States of America,Carretera,991,297300,6/1/14
+Government,Germany,Carretera,1016,7112,11/1/13
+Midmarket,Mexico,Carretera,2791,41865,11/1/14
+Government,United States of America,Carretera,570,3990,12/1/14
+Government,France,Carretera,2487,17409,12/1/14
+Government,France,Montana,1385,484575,1/1/14
+Enterprise,United States of America,Montana,3627,453375,7/1/14
+Government,Mexico,Montana,720,252000,9/1/13
+Channel Partners,Germany,Montana,2342,28104,11/1/14
+Small Business,Mexico,Montana,1100,330000,12/1/13
+Government,France,Paseo,1303,26060,2/1/14
+Enterprise,United States of America,Paseo,2992,374000,3/1/14
+Enterprise,France,Paseo,2385,298125,3/1/14
+Small Business,Mexico,Paseo,1607,482100,4/1/14
+Government,United States of America,Paseo,2327,16289,5/1/14
+Small Business,United States of America,Paseo,991,297300,6/1/14
+Government,United States of America,Paseo,602,210700,6/1/14
+Midmarket,France,Paseo,2620,39300,9/1/14
+Government,Canada,Paseo,1228,429800,10/1/13
+Government,Canada,Paseo,1389,27780,10/1/13
+Enterprise,United States of America,Paseo,861,107625,10/1/14
+Enterprise,France,Paseo,704,88000,10/1/13
+Government,Canada,Paseo,1802,36040,12/1/13
+Government,United States of America,Paseo,2663,53260,12/1/14
+Government,France,Paseo,2136,14952,12/1/13
+Midmarket,Germany,Paseo,2116,31740,12/1/13
+Midmarket,United States of America,Velo,555,8325,1/1/14
+Midmarket,Mexico,Velo,2861,42915,1/1/14
+Enterprise,Germany,Velo,807,100875,2/1/14
+Government,United States of America,Velo,602,210700,6/1/14
+Government,United States of America,Velo,2832,56640,8/1/14
+Government,France,Velo,1579,31580,8/1/14
+Enterprise,United States of America,Velo,861,107625,10/1/14
+Enterprise,France,Velo,704,88000,10/1/13
+Government,France,Velo,1033,20660,12/1/13
+Small Business,Germany,Velo,1250,375000,12/1/14
+Government,Canada,VTT,1389,27780,10/1/13
+Government,United States of America,VTT,1265,25300,11/1/13
+Government,Germany,VTT,2297,45940,11/1/13
+Government,United States of America,VTT,2663,53260,12/1/14
+Government,United States of America,VTT,570,3990,12/1/14
+Government,France,VTT,2487,17409,12/1/14
+Government,Germany,Amarilla,1350,472500,2/1/14
+Government,Canada,Amarilla,552,193200,8/1/14
+Government,Canada,Amarilla,1228,429800,10/1/13
+Small Business,Germany,Amarilla,1250,375000,12/1/14
+Midmarket,France,Paseo,3801,57015,4/1/14
+Government,United States of America,Carretera,1118,22350,1/1/14
+Midmarket,Canada,Carretera,2844,42660,6/1/14
+Channel Partners,Mexico,Carretera,562,6744,9/1/14
+Channel Partners,Canada,Carretera,2299,27588,10/1/13
+Midmarket,United States of America,Carretera,2030,30450,11/1/14
+Government,United States of America,Carretera,263,1841,11/1/13
+Enterprise,Germany,Carretera,887,110875,12/1/13
+Government,Mexico,Montana,980,343000,4/1/14
+Government,Germany,Montana,1460,511000,5/1/14
+Government,France,Montana,1403,9821,10/1/13
+Channel Partners,United States of America,Montana,2723,32676,11/1/14
+Government,France,Paseo,1496,523600,6/1/14
+Channel Partners,Canada,Paseo,2299,27588,10/1/13
+Government,United States of America,Paseo,727,254450,10/1/13
+Enterprise,Canada,Velo,952,119000,2/1/14
+Enterprise,United States of America,Velo,2755,344375,2/1/14
+Midmarket,Germany,Velo,1530,22950,5/1/14
+Government,France,Velo,1496,523600,6/1/14
+Government,Mexico,Velo,1498,10486,6/1/14
+Small Business,France,Velo,1221,366300,10/1/13
+Government,France,Velo,2076,726600,10/1/13
+Midmarket,Canada,VTT,2844,42660,6/1/14
+Government,Mexico,VTT,1498,10486,6/1/14
+Small Business,France,VTT,1221,366300,10/1/13
+Government,Mexico,VTT,1123,22460,11/1/13
+Small Business,Canada,VTT,2436,730800,12/1/13
+Enterprise,France,Amarilla,1988,248437.5,1/1/14
+Government,Mexico,Amarilla,1679,587650,9/1/14
+Government,United States of America,Amarilla,727,254450,10/1/13
+Government,France,Amarilla,1403,9821,10/1/13
+Government,France,Amarilla,2076,726600,10/1/13
+Government,France,Montana,1757,35140,10/1/13
+Midmarket,United States of America,Paseo,2198,32970,8/1/14
+Midmarket,Germany,Paseo,1743,26145,8/1/14
+Midmarket,United States of America,Paseo,1153,17295,10/1/14
+Government,France,Paseo,1757,35140,10/1/13
+Government,Germany,Velo,1001,20020,8/1/14
+Government,Mexico,Velo,1333,9331,11/1/14
+Midmarket,United States of America,VTT,1153,17295,10/1/14
+Channel Partners,Mexico,Carretera,727,8724,2/1/14
+Channel Partners,Canada,Carretera,1884,22608,8/1/14
+Government,Mexico,Carretera,1834,36680,9/1/13
+Channel Partners,Mexico,Montana,2340,28080,1/1/14
+Channel Partners,France,Montana,2342,28104,11/1/14
+Government,France,Paseo,1031,7217,9/1/13
+Midmarket,Canada,Velo,1262,18930,5/1/14
+Government,Canada,Velo,1135,7945,6/1/14
+Government,United States of America,Velo,547,3829,11/1/14
+Government,Canada,Velo,1582,11074,12/1/14
+Channel Partners,France,VTT,1739,20862,4/1/14
+Channel Partners,Germany,VTT,2215,26580,9/1/13
+Government,Canada,VTT,1582,11074,12/1/14
+Government,Canada,Amarilla,1135,7945,6/1/14
+Government,United States of America,Carretera,1761,616350,3/1/14
+Small Business,France,Carretera,448,134400,6/1/14
+Small Business,France,Carretera,2181,654300,10/1/14
+Government,France,Montana,1976,39520,10/1/14
+Small Business,France,Montana,2181,654300,10/1/14
+Enterprise,Germany,Montana,2500,312500,11/1/13
+Small Business,Canada,Paseo,1702,510600,5/1/14
+Small Business,France,Paseo,448,134400,6/1/14
+Enterprise,Germany,Paseo,3513,439125,7/1/14
+Midmarket,France,Paseo,2101,31515,8/1/14
+Midmarket,United States of America,Paseo,2931,43965,9/1/13
+Government,France,Paseo,1535,30700,9/1/14
+Small Business,Germany,Paseo,1123,336900,9/1/13
+Small Business,Canada,Paseo,1404,421200,11/1/13
+Channel Partners,Mexico,Paseo,2763,33156,11/1/13
+Government,Germany,Paseo,2125,14875,12/1/13
+Small Business,France,Velo,1659,497700,7/1/14
+Government,Mexico,Velo,609,12180,8/1/14
+Enterprise,Germany,Velo,2087,260875,9/1/14
+Government,France,Velo,1976,39520,10/1/14
+Government,United States of America,Velo,1421,28420,12/1/13
+Small Business,United States of America,Velo,1372,411600,12/1/14
+Government,Germany,Velo,588,11760,12/1/13
+Channel Partners,Canada,VTT,3245,38934,1/1/14
+Small Business,France,VTT,959,287700,2/1/14
+Small Business,Mexico,VTT,2747,824100,2/1/14
+Enterprise,Canada,Amarilla,1645,205625,5/1/14
+Government,France,Amarilla,2876,1006600,9/1/14
+Enterprise,Germany,Amarilla,994,124250,9/1/13
+Government,Canada,Amarilla,1118,22360,11/1/14
+Small Business,United States of America,Amarilla,1372,411600,12/1/14
+Government,Canada,Montana,488,3416,2/1/14
+Government,United States of America,Montana,1282,25640,6/1/14
+Government,Canada,Paseo,257,1799,5/1/14
+Government,United States of America,Amarilla,1282,25640,6/1/14
+Enterprise,Mexico,Carretera,1540,192500,8/1/14
+Midmarket,France,Carretera,490,7350,11/1/14
+Government,Mexico,Carretera,1362,476700,12/1/14
+Midmarket,France,Montana,2501,37515,3/1/14
+Government,Canada,Montana,708,14160,6/1/14
+Government,Germany,Montana,645,12900,7/1/14
+Small Business,France,Montana,1562,468600,8/1/14
+Small Business,Canada,Montana,1283,384900,9/1/13
+Midmarket,Germany,Montana,711,10665,12/1/14
+Enterprise,Mexico,Paseo,1114,139250,3/1/14
+Government,Germany,Paseo,1259,8813,4/1/14
+Government,Germany,Paseo,1095,7665,5/1/14
+Government,Germany,Paseo,1366,27320,6/1/14
+Small Business,Mexico,Paseo,2460,738000,6/1/14
+Government,United States of America,Paseo,678,4746,8/1/14
+Government,Germany,Paseo,1598,11186,8/1/14
+Government,Germany,Paseo,2409,16863,9/1/13
+Government,Germany,Paseo,1934,38680,9/1/14
+Government,Mexico,Paseo,2993,59860,9/1/14
+Government,Germany,Paseo,2146,751100,11/1/13
+Government,Mexico,Paseo,1946,13622,12/1/13
+Government,Mexico,Paseo,1362,476700,12/1/14
+Channel Partners,Canada,Velo,598,7176,3/1/14
+Government,United States of America,Velo,2907,20349,6/1/14
+Government,Germany,Velo,2338,16366,6/1/14
+Small Business,France,Velo,386,115800,11/1/13
+Small Business,Mexico,Velo,635,190500,12/1/14
+Government,France,VTT,575,201075,4/1/14
+Government,Germany,VTT,2338,16366,6/1/14
+Government,France,VTT,381,133350,8/1/14
+Government,Germany,VTT,422,147700,8/1/14
+Small Business,Canada,VTT,2134,640200,9/1/14
+Small Business,United States of America,VTT,808,242400,12/1/13
+Government,Canada,Amarilla,708,14160,6/1/14
+Government,United States of America,Amarilla,2907,20349,6/1/14
+Government,Germany,Amarilla,1366,27320,6/1/14
+Small Business,Mexico,Amarilla,2460,738000,6/1/14
+Government,Germany,Amarilla,1520,30400,11/1/14
+Midmarket,Germany,Amarilla,711,10665,12/1/14
+Channel Partners,Mexico,Amarilla,1375,16500,12/1/13
+Small Business,Mexico,Amarilla,635,190500,12/1/14
+Government,United States of America,VTT,437,8730,7/1/14
+Small Business,Canada,Carretera,1094,328200,6/1/14
+Channel Partners,Mexico,Carretera,367,4404,10/1/13
+Small Business,Canada,Montana,3803,1140750,4/1/14
+Government,France,Montana,1666,583100,5/1/14
+Small Business,France,Montana,322,96600,9/1/13
+Channel Partners,Canada,Montana,2321,27852,11/1/14
+Enterprise,France,Montana,1857,232125,11/1/13
+Government,Canada,Montana,1611,11277,12/1/13
+Enterprise,United States of America,Montana,2797,349625,12/1/14
+Small Business,Germany,Montana,334,100200,12/1/13
+Small Business,Mexico,Paseo,2565,769500,1/1/14
+Government,Mexico,Paseo,2417,845950,1/1/14
+Midmarket,United States of America,Paseo,3675,55125,4/1/14
+Small Business,Canada,Paseo,1094,328200,6/1/14
+Midmarket,France,Paseo,1227,18405,10/1/14
+Channel Partners,Mexico,Paseo,367,4404,10/1/13
+Small Business,France,Paseo,1324,397200,11/1/14
+Channel Partners,Germany,Paseo,1775,21300,11/1/13
+Enterprise,United States of America,Paseo,2797,349625,12/1/14
+Midmarket,Mexico,Velo,245,3675,5/1/14
+Small Business,Canada,Velo,3794,1138050,7/1/14
+Government,Germany,Velo,1307,457450,7/1/14
+Enterprise,Canada,Velo,567,70875,9/1/14
+Enterprise,Mexico,Velo,2110,263750,9/1/14
+Government,Canada,Velo,1269,444150,10/1/14
+Channel Partners,United States of America,VTT,1956,23472,1/1/14
+Small Business,Germany,VTT,2659,797700,2/1/14
+Government,United States of America,VTT,1352,473025,4/1/14
+Channel Partners,Germany,VTT,880,10560,5/1/14
+Small Business,United States of America,VTT,1867,560100,9/1/14
+Channel Partners,France,VTT,2234,26808,9/1/13
+Midmarket,France,VTT,1227,18405,10/1/14
+Enterprise,Mexico,VTT,877,109625,11/1/14
+Government,United States of America,Amarilla,2071,724850,9/1/14
+Government,Canada,Amarilla,1269,444150,10/1/14
+Midmarket,Germany,Amarilla,970,14550,11/1/13
+Government,Mexico,Amarilla,1694,33880,11/1/14
+Government,Germany,Carretera,663,13260,5/1/14
+Government,Canada,Carretera,819,5733,7/1/14
+Channel Partners,Germany,Carretera,1580,18960,9/1/14
+Government,Mexico,Carretera,521,3647,12/1/14
+Government,United States of America,Paseo,973,19460,3/1/14
+Government,Mexico,Paseo,1038,20760,6/1/14
+Government,Germany,Paseo,360,2520,10/1/14
+Channel Partners,France,Velo,1967,23604,3/1/14
+Midmarket,Mexico,Velo,2628,39420,4/1/14
+Government,Germany,VTT,360,2520,10/1/14
+Government,France,VTT,2682,53640,11/1/13
+Government,Mexico,VTT,521,3647,12/1/14
+Government,Mexico,Amarilla,1038,20760,6/1/14
+Midmarket,Canada,Amarilla,1631,24457.5,7/1/14
+Channel Partners,France,Amarilla,306,3672,12/1/13
+Channel Partners,United States of America,Carretera,386,4632,10/1/13
+Government,United States of America,Montana,2328,16296,9/1/14
+Channel Partners,United States of America,Paseo,386,4632,10/1/13
+Enterprise,United States of America,Carretera,3446,430687.5,4/1/14
+Enterprise,France,Carretera,1482,185250,12/1/13
+Government,United States of America,Montana,2313,809550,5/1/14
+Enterprise,United States of America,Montana,1804,225500,11/1/13
+Midmarket,France,Montana,2072,31080,12/1/14
+Government,France,Paseo,1954,39080,3/1/14
+Small Business,Mexico,Paseo,591,177300,5/1/14
+Midmarket,France,Paseo,2167,32505,10/1/13
+Government,Germany,Paseo,241,4820,10/1/14
+Midmarket,Germany,Velo,681,10215,1/1/14
+Midmarket,Germany,Velo,510,7650,4/1/14
+Midmarket,United States of America,Velo,790,11850,5/1/14
+Government,France,Velo,639,223650,7/1/14
+Enterprise,United States of America,Velo,1596,199500,9/1/14
+Small Business,United States of America,Velo,2294,688200,10/1/13
+Government,Germany,Velo,241,4820,10/1/14
+Government,Germany,Velo,2665,18655,11/1/14
+Enterprise,Canada,Velo,1916,239500,12/1/13
+Small Business,France,Velo,853,255900,12/1/14
+Enterprise,Mexico,VTT,341,42625,5/1/14
+Midmarket,Mexico,VTT,641,9615,7/1/14
+Government,United States of America,VTT,2807,982450,8/1/14
+Small Business,Mexico,VTT,432,129600,9/1/14
+Small Business,United States of America,VTT,2294,688200,10/1/13
+Midmarket,France,VTT,2167,32505,10/1/13
+Enterprise,Canada,VTT,2529,316125,11/1/14
+Government,Germany,VTT,1870,654500,12/1/13
+Enterprise,United States of America,Amarilla,579,72375,1/1/14
+Government,Canada,Amarilla,2240,784000,2/1/14
+Small Business,United States of America,Amarilla,2993,897900,3/1/14
+Channel Partners,Canada,Amarilla,3521,42246,4/1/14
+Government,Mexico,Amarilla,2039,40780,5/1/14
+Channel Partners,Germany,Amarilla,2574,30888,8/1/14
+Government,Canada,Amarilla,707,247450,9/1/14
+Midmarket,France,Amarilla,2072,31080,12/1/14
+Small Business,France,Amarilla,853,255900,12/1/14
+Channel Partners,France,Carretera,1198,14376,10/1/13
+Government,France,Paseo,2532,17724,4/1/14
+Channel Partners,France,Paseo,1198,14376,10/1/13
+Midmarket,Canada,Velo,384,5760,1/1/14
+Channel Partners,Germany,Velo,472,5664,10/1/14
+Government,United States of America,VTT,1579,11053,3/1/14
+Channel Partners,Mexico,VTT,1005,12060,9/1/13
+Midmarket,United States of America,Amarilla,3200,47992.5,7/1/14
+Channel Partners,Germany,Amarilla,472,5664,10/1/14
+Channel Partners,Canada,Carretera,1937,23244,2/1/14
+Government,Germany,Carretera,792,277200,3/1/14
+Small Business,Germany,Carretera,2811,843300,7/1/14
+Enterprise,France,Carretera,2441,305125,10/1/14
+Midmarket,Canada,Carretera,1560,23400,11/1/13
+Government,Mexico,Carretera,2706,18942,11/1/13
+Government,Germany,Montana,766,268100,1/1/14
+Government,Germany,Montana,2992,59840,10/1/13
+Midmarket,Mexico,Montana,2157,32355,12/1/14
+Small Business,Canada,Paseo,873,261900,1/1/14
+Government,Mexico,Paseo,1122,22440,3/1/14
+Government,Canada,Paseo,2105,736575,7/1/14
+Channel Partners,Canada,Paseo,4026,48312,7/1/14
+Channel Partners,France,Paseo,2426,29106,7/1/14
+Government,Canada,Paseo,2394,47880,8/1/14
+Midmarket,Mexico,Paseo,1984,29760,8/1/14
+Enterprise,France,Paseo,2441,305125,10/1/14
+Government,Germany,Paseo,2992,59840,10/1/13
+Small Business,Canada,Paseo,1366,409800,11/1/14
+Government,France,Velo,2805,56100,9/1/13
+Midmarket,Mexico,Velo,655,9825,9/1/13
+Government,Mexico,Velo,344,120400,10/1/13
+Government,Canada,Velo,1808,12656,11/1/14
+Channel Partners,France,VTT,1734,20808,1/1/14
+Enterprise,Mexico,VTT,554,69250,1/1/14
+Government,Canada,VTT,2935,58700,11/1/13
+Enterprise,Germany,Amarilla,3165,395625,1/1/14
+Government,Mexico,Amarilla,2629,52580,1/1/14
+Enterprise,France,Amarilla,1433,179125,5/1/14
+Enterprise,Mexico,Amarilla,947,118375,9/1/13
+Government,Mexico,Amarilla,344,120400,10/1/13
+Midmarket,Mexico,Amarilla,2157,32355,12/1/14
+Government,United States of America,Paseo,380,2660,9/1/13
+Government,Mexico,Carretera,886,310100,6/1/14
+Enterprise,Canada,Carretera,2416,302000,9/1/13
+Enterprise,Mexico,Carretera,2156,269500,10/1/14
+Midmarket,Canada,Carretera,2689,40335,11/1/14
+Midmarket,United States of America,Montana,677,10155,3/1/14
+Small Business,France,Montana,1773,531900,4/1/14
+Government,Mexico,Montana,2420,16940,9/1/14
+Government,Canada,Montana,2734,19138,10/1/14
+Government,Mexico,Montana,1715,34300,10/1/13
+Small Business,France,Montana,1186,355800,12/1/13
+Small Business,United States of America,Paseo,3495,1048500,1/1/14
+Government,Mexico,Paseo,886,310100,6/1/14
+Enterprise,Mexico,Paseo,2156,269500,10/1/14
+Government,Mexico,Paseo,905,18100,10/1/14
+Government,Mexico,Paseo,1715,34300,10/1/13
+Government,France,Paseo,1594,557900,11/1/14
+Small Business,Germany,Paseo,1359,407700,11/1/14
+Small Business,Mexico,Paseo,2150,645000,11/1/14
+Government,Mexico,Paseo,1197,418950,11/1/14
+Midmarket,Mexico,Paseo,380,5700,12/1/13
+Government,Mexico,Paseo,1233,24660,12/1/14
+Government,Mexico,Velo,1395,488250,7/1/14
+Government,United States of America,Velo,986,345100,10/1/14
+Government,Mexico,Velo,905,18100,10/1/14
+Channel Partners,Canada,VTT,2109,25308,5/1/14
+Midmarket,France,VTT,3875,58117.5,7/1/14
+Government,Canada,VTT,623,218050,9/1/13
+Government,United States of America,VTT,986,345100,10/1/14
+Enterprise,United States of America,VTT,2387,298375,11/1/14
+Government,Mexico,VTT,1233,24660,12/1/14
+Government,United States of America,Amarilla,270,94500,2/1/14
+Government,France,Amarilla,3422,23950.5,7/1/14
+Government,Canada,Amarilla,2734,19138,10/1/14
+Midmarket,United States of America,Amarilla,2548,38220,11/1/13
+Government,France,Carretera,2522,50430,1/1/14
+Channel Partners,Mexico,Montana,2661,31932,5/1/14
+Government,Germany,Paseo,1531,30620,12/1/14
+Government,France,VTT,1491,10437,3/1/14
+Government,Germany,VTT,1531,30620,12/1/14
+Channel Partners,Canada,Amarilla,2761,33132,9/1/13
+Midmarket,United States of America,Carretera,2567,38505,6/1/14
+Midmarket,United States of America,VTT,2567,38505,6/1/14
+Government,Canada,Carretera,923,323050,3/1/14
+Government,France,Carretera,1790,626500,3/1/14
+Government,Germany,Carretera,442,8840,9/1/13
+Government,United States of America,Montana,983,343875,1/1/14
+Government,United States of America,Montana,1298,9086,2/1/14
+Channel Partners,Mexico,Montana,604,7248,6/1/14
+Government,Mexico,Montana,2255,45100,7/1/14
+Government,Canada,Montana,1249,24980,10/1/14
+Government,United States of America,Paseo,1439,10069.5,1/1/14
+Small Business,Germany,Paseo,807,242100,1/1/14
+Government,United States of America,Paseo,2641,52820,2/1/14
+Government,Germany,Paseo,2708,54160,2/1/14
+Government,Canada,Paseo,2632,921200,6/1/14
+Enterprise,Canada,Paseo,1583,197875,6/1/14
+Channel Partners,Mexico,Paseo,571,6852,7/1/14
+Government,France,Paseo,2696,18872,8/1/14
+Midmarket,Canada,Paseo,1565,23475,10/1/14
+Government,Canada,Paseo,1249,24980,10/1/14
+Government,Germany,Paseo,357,124950,11/1/14
+Channel Partners,Germany,Paseo,1013,12156,12/1/14
+Midmarket,France,Velo,3998,59962.5,1/1/14
+Government,Canada,Velo,2632,921200,6/1/14
+Government,France,Velo,1190,8330,6/1/14
+Channel Partners,Mexico,Velo,604,7248,6/1/14
+Midmarket,Germany,Velo,660,9900,9/1/13
+Channel Partners,Mexico,Velo,410,4920,10/1/14
+Small Business,Mexico,Velo,2605,781500,11/1/13
+Channel Partners,Germany,Velo,1013,12156,12/1/14
+Enterprise,Canada,VTT,1583,197875,6/1/14
+Midmarket,Canada,VTT,1565,23475,10/1/14
+Enterprise,Canada,Amarilla,1659,207375,1/1/14
+Government,France,Amarilla,1190,8330,6/1/14
+Channel Partners,Mexico,Amarilla,410,4920,10/1/14
+Channel Partners,Germany,Amarilla,1770,21240,12/1/13
+Government,Mexico,Carretera,2579,51580,4/1/14
+Government,United States of America,Carretera,1743,34860,5/1/14
+Government,United States of America,Carretera,2996,20972,10/1/13
+Government,Germany,Carretera,280,1960,12/1/14
+Government,France,Montana,293,2051,2/1/14
+Government,United States of America,Montana,2996,20972,10/1/13
+Midmarket,Germany,Paseo,278,4170,2/1/14
+Government,Canada,Paseo,2428,48560,3/1/14
+Midmarket,United States of America,Paseo,1767,26505,9/1/14
+Channel Partners,France,Paseo,1393,16716,10/1/14
+Government,Germany,VTT,280,1960,12/1/14
+Channel Partners,France,Amarilla,1393,16716,10/1/14
+Channel Partners,United States of America,Amarilla,2015,24180,12/1/13
+Small Business,Mexico,Carretera,801,240300,7/1/14
+Enterprise,France,Carretera,1023,127875,9/1/13
+Small Business,Canada,Carretera,1496,448800,10/1/14
+Small Business,United States of America,Carretera,1010,303000,10/1/14
+Midmarket,Germany,Carretera,1513,22695,11/1/14
+Midmarket,Canada,Carretera,2300,34500,12/1/14
+Enterprise,Mexico,Carretera,2821,352625,12/1/13
+Government,Canada,Montana,2228,779625,1/1/14
+Government,Germany,Montana,1199,419650,4/1/14
+Government,Canada,Montana,200,70000,5/1/14
+Government,Canada,Montana,388,2716,9/1/14
+Government,Mexico,Montana,1727,12089,10/1/13
+Midmarket,Canada,Montana,2300,34500,12/1/14
+Government,Mexico,Paseo,260,5200,2/1/14
+Midmarket,Canada,Paseo,2470,37050,9/1/13
+Midmarket,Canada,Paseo,1743,26145,10/1/13
+Channel Partners,United States of America,Paseo,2914,34968,10/1/14
+Government,France,Paseo,1731,12117,10/1/14
+Government,Canada,Paseo,700,245000,11/1/14
+Channel Partners,Canada,Paseo,2222,26664,11/1/13
+Government,United States of America,Paseo,1177,411950,11/1/14
+Government,France,Paseo,1922,672700,11/1/13
+Enterprise,Mexico,Velo,1575,196875,2/1/14
+Government,United States of America,Velo,606,12120,4/1/14
+Small Business,United States of America,Velo,2460,738000,7/1/14
+Small Business,Canada,Velo,269,80700,10/1/13
+Small Business,Germany,Velo,2536,760800,11/1/13
+Government,Mexico,VTT,2903,20321,3/1/14
+Small Business,United States of America,VTT,2541,762300,8/1/14
+Small Business,Canada,VTT,269,80700,10/1/13
+Small Business,Canada,VTT,1496,448800,10/1/14
+Small Business,United States of America,VTT,1010,303000,10/1/14
+Government,France,VTT,1281,448350,12/1/13
+Small Business,Canada,Amarilla,888,266400,3/1/14
+Enterprise,United States of America,Amarilla,2844,355500,5/1/14
+Channel Partners,France,Amarilla,2475,29700,8/1/14
+Midmarket,Canada,Amarilla,1743,26145,10/1/13
+Channel Partners,United States of America,Amarilla,2914,34968,10/1/14
+Government,France,Amarilla,1731,12117,10/1/14
+Government,Mexico,Amarilla,1727,12089,10/1/13
+Midmarket,Mexico,Amarilla,1870,28050,11/1/13
+Enterprise,France,Carretera,1174,146750,8/1/14
+Enterprise,Germany,Carretera,2767,345875,8/1/14
+Enterprise,Germany,Carretera,1085,135625,10/1/14
+Small Business,Mexico,Montana,546,163800,10/1/14
+Government,Germany,Paseo,1158,23160,3/1/14
+Midmarket,Canada,Paseo,1614,24210,4/1/14
+Government,Mexico,Paseo,2535,17745,4/1/14
+Government,Mexico,Paseo,2851,997850,5/1/14
+Midmarket,Canada,Paseo,2559,38385,8/1/14
+Government,United States of America,Paseo,267,5340,10/1/13
+Enterprise,Germany,Paseo,1085,135625,10/1/14
+Midmarket,Germany,Paseo,1175,17625,10/1/14
+Government,United States of America,Paseo,2007,702450,11/1/13
+Government,Mexico,Paseo,2151,752850,11/1/13
+Channel Partners,United States of America,Paseo,914,10968,12/1/14
+Government,France,Paseo,293,5860,12/1/14
+Channel Partners,Mexico,Velo,500,6000,3/1/14
+Midmarket,France,Velo,2826,42390,5/1/14
+Enterprise,France,Velo,663,82875,9/1/14
+Small Business,United States of America,Velo,2574,772200,11/1/13
+Enterprise,United States of America,Velo,2438,304750,12/1/13
+Channel Partners,United States of America,Velo,914,10968,12/1/14
+Government,Canada,VTT,866,17310,7/1/14
+Midmarket,Germany,VTT,492,7380,7/1/14
+Government,United States of America,VTT,267,5340,10/1/13
+Midmarket,Germany,VTT,1175,17625,10/1/14
+Enterprise,Canada,VTT,2954,369250,11/1/13
+Enterprise,Germany,VTT,552,69000,11/1/14
+Government,France,VTT,293,5860,12/1/14
+Small Business,France,Amarilla,2475,742500,3/1/14
+Small Business,Mexico,Amarilla,546,163800,10/1/14
+Government,Mexico,Montana,1368,9576,2/1/14
+Government,Canada,Paseo,723,5061,4/1/14
+Channel Partners,United States of America,VTT,1806,21672,5/1/14
